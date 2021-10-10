@@ -4,7 +4,7 @@ import (
 	"GITS-Kelompok-CRUD-JWT/config"
 	"GITS-Kelompok-CRUD-JWT/routes"
 
-	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo"
 )
 
 func main() {

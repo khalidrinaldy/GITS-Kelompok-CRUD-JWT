@@ -6,7 +6,7 @@ import (
 	"GITS-Kelompok-CRUD-JWT/helper"
 	"net/http"
 
-	"github.com/labstack/echo/v4"
+	"github.com/labstack/echo"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 )
